@@ -1,0 +1,8 @@
+[
+    {"name":"telsa", "invest":1000, "revenue":2500},
+    {"name":"ms", "invest":1200, "revenue":3100},
+    {"name":"apple", "invest":1000, "revenue":2110},
+    {"name":"hp", "invest":1040, "revenue":2270},
+    {"name":"ibm", "invest":1010, "revenue":2312},
+    {"name":"fb", "invest":25000, "revenue":10000000}
+]
